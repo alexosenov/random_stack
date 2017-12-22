@@ -1,0 +1,3 @@
+mysqld --de
+faults-file="C:\Users\...\Desktop\mysql-5.7.20-winx64\mysql-5.7.20-winx64\bi
+n\my.cnf" --initialize-insecure
